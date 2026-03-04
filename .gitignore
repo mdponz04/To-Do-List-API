@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Publish folder
+publish/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Entity Framework
+Migrations/*Designer.cs
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Test Results
+TestResults/
+
+# Docker
+docker-compose.override.yml
