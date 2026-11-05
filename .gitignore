@@ -49,3 +49,4 @@ TestResults/
 docker-compose.override.yml
 
 *.json
+*.env
